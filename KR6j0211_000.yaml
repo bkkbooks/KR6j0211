@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0211/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 出生無邊門陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n1018.xml
+    old_id: T19n1018
+hash: sha256:8abb3a39ac02bc145b4a776c3e0a9dd38cd2be4d71705a7cd710c7622c13b8ce
