@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0211_000.yaml, hash: 'sha256:8abb3a39ac02bc145b4a776c3e0a9dd38cd2be4d71705a7cd710c7622c13b8ce'}
-  - {seq: 1, filename: KR6j0211_001.yaml, hash: 'sha256:ef3778fda88a0a0eff11acc24c37d3c369f4a8f76bdb2287dd0e2288712b2bab'}
+  - {seq: 1, filename: KR6j0211_001.yaml, hash: 'sha256:4d12b9b35028d78ce42a7d66bcf1a5c479efbea08bff72343bdb0d89d6b4f18d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0211_001.markers.yaml, hash: 'sha256:80e22485bb84fc2728c839096c5a5b8d9ecb4ed58c8ca3be91dec02990d09daf'}
+  - {seq: 0, role: markers, filename: assets/KR6j0211_000.markers.yaml, hash: 'sha256:c1665731c61c318d09acc6ccabb888af7606c30f5dba831437722077a60b07e9'}
+  - {seq: 1, role: markers, filename: assets/KR6j0211_001.markers.yaml, hash: 'sha256:b423b728cdc4d9056d6bfa371e3574c7a1125dcda22f10c766f661e45ed3e4a1'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 出生無邊門陀羅尼經
   type: juan
   level: 1
-hash: sha256:ef6ddc30c41ecc2eb10c6dfc5c7b19b99897746a0106f99f36227e5f91b3273d
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:708e84c738e184e4f28370b8be5b216f86dfe9ee3335058df7784850747458e5
