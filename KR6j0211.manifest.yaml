@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0211/v1
 canonical_location: https://kanripo.org/bkk/KR6j0211/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 出生無邊門陀羅尼經
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0211_000.yaml, hash: 'sha256:8abb3a39ac02bc145b4a776c3e0a9dd38cd2be4d71705a7cd710c7622c13b8ce'}
-  - {seq: 1, filename: KR6j0211_001.yaml, hash: 'sha256:4d12b9b35028d78ce42a7d66bcf1a5c479efbea08bff72343bdb0d89d6b4f18d'}
+  - {seq: 1, filename: KR6j0211_001.yaml, hash: 'sha256:125a8431a7a05a8ab4bd3f93b8950a66d0ba50041711af1fa3e164658b24041a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0211_000.markers.yaml, hash: 'sha256:c1665731c61c318d09acc6ccabb888af7606c30f5dba831437722077a60b07e9'}
-  - {seq: 1, role: markers, filename: assets/KR6j0211_001.markers.yaml, hash: 'sha256:b423b728cdc4d9056d6bfa371e3574c7a1125dcda22f10c766f661e45ed3e4a1'}
+  - {seq: 1, role: markers, filename: assets/KR6j0211_001.markers.yaml, hash: 'sha256:988b9283a28f09c183a3ae4f95c89ab98cff77f9e34bc773c6f6ec692a9062d5'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 出生無邊門陀羅尼經
   type: juan
   level: 1
-hash: sha256:708e84c738e184e4f28370b8be5b216f86dfe9ee3335058df7784850747458e5
+hash: sha256:36ab9187b614fff2e1adedc9fbe3c5025a2b926fd8a72f4f635c22df1219d01b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
